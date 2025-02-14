@@ -80,3 +80,5 @@ Feel free to fork the repository and submit pull requests to improve the project
 ## License
 This project is open-source and available under the MIT License.
 
+OUTPUT: 
+![Image](https://github.com/user-attachments/assets/583508c8-d922-44c3-80cf-7520dce13b97)
